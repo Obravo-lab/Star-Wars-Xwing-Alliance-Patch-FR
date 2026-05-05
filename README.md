@@ -51,19 +51,6 @@ Pour revenir à l'anglais, copiez son contenu vers le dossier `Wave\` du jeu.
 
 ---
 
-## 🖥️ Jouer en 2560×1440 (mode fenêtré)
-
-Pour profiter du jeu en haute résolution avec les hooks XWA :
-
-- `dinput.dll` — Hook principal
-- `hook_windowed.dll` + `hook_windowed.cfg` — Mode fenêtré
-- `hook_resolution.dll` + `hook_resolution.cfg` — Résolution personnalisée
-- `hook_res1200.dll` — Correctif crash > 1200px
-
-👉 Voir le projet [JeremyAnsel/xwa_hooks](https://github.com/JeremyAnsel/xwa_hooks)
-
----
-
 ## ❓ Problèmes fréquents
 
 **`install.bat` ne trouve pas le jeu**  
