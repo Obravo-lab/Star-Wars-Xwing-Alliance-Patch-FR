@@ -1,5 +1,7 @@
 <div align="center">
 
+![Bannière X-Wing Alliance Patch FR](https://raw.githubusercontent.com/Obravo-lab/Star-Wars-Xwing-Alliance-Patch-FR/main/banner.png)
+
 # 🚀 Star Wars : X-Wing Alliance — Pack Langue Française v1.0
 
 **Patch de traduction complète en français pour Star Wars : X-Wing Alliance**  
